@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.body {
+    background-color: white;
+    height: 100vh;
+    padding: 2vh;
+    border: 1vh solid #0967d219;
+}
+
+.covid {
+    height: 19vh;
+}
+
+.covid-text {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.covid-test {
+    background-color: #0967d219;
+    height: 19vh;
+    border-radius: 2vh;
+    padding: 1vh;
+    margin-top: 3vh;
+}
+
+.covid-img {
+    height: 15vh;
+    width: 15vh;
+    padding: 2vh;
+}
+
+.covid-test-card {
+    padding: 2vh;
+}
+
+.covid-test-videos-heading {
+    font-family: "Roboto";
+    font-size: 3vh;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.covid-test-videos-text {
+    font-family: "Roboto";
+    font-size: 2vh;
+    color: #707070;
+
+}
+
+.covid-symptoms {
+    height: 18vh;
+    margin-top: 2vh;
+}
+
+.covid-symptoms-heading {
+    font-family: "Roboto";
+    font-size: 3vh;
+    font-weight: bold;
+    color: #323f4b;
+    margin-top: 2vh;
+}
+
+.covid-symptoms-img-cough-bg {
+    background-color: #3ebd93;
+    height: 16vh;
+    width: 14vh;
+    border-radius: 2vh;
+    margin-right: 2vh;
+
+}
+
+.covid-symptoms-img-fever-bg {
+    background-color: #e668a7;
+    height: 16vh;
+    width: 14vh;
+    border-radius: 2vh;
+    margin-right: 2vh;
+
+}
+
+.covid-symptoms-img-headach-bg {
+    background-color: #a368fc;
+    height: 16vh;
+    width: 14vh;
+    border-radius: 2vh;
+    margin-right: 2vh;
+
+}
+
+.covid-symptoms-img {
+    text-align: center;
+    padding: 1vh;
+}
+
+.covid-symptoms-img-text {
+    color: white;
+    font-family: "Roboto";
+    font-size: 2vh;
+    margin-top: 1vh;
+}
+
+.covid-videos-heading {
+    font-family: "Roboto";
+    font-size: 3vh;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.videos-card {
+    height: 22vh;
+    background-color: #e12d3919;
+    border-radius: 2vh;
+    padding: 2vh;
+}
+
+.videos-img {
+    height: 8vh;
+    margin-top: 1vh;
+}
+
+.videos-data {
+    margin-left: 3vh;
+}
+
+.button {
+    background-color: #0967d2;
+    height: 5vh;
+    width: 16vh;
+    border-radius: 8px;
+    font-size: 2vh;
+    font-family: "Roboto";
+    margin-top: -10px;
+    color: white;
+    border-width: 0px;
+}
