@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.yoga-home-bg {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    height: 100vh;
+    width: 59vh;
+    background-size: cover;
+    padding: 3vh;
+    text-align: center;
+}
+
+.yoga-home-bg-heading {
+    font-family: "Roboto";
+    color: #132d84;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 3vh;
+}
+
+.yoga-home-bg-img {
+    height: 32vh;
+    width: 33vh;
+    margin-top: 27vh;
+}
+
+.yoga-home-text {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 16px;
+
+}
+
+.yoga-home-button {
+    background-color: #132d84;
+    color: #fad693;
+    font-family: "Roboto";
+    font-size: 2vh;
+    height: 5vh;
+    border-radius: 1vh;
+}
+
+
+
+
+.yoga-type-page-bg {
+    background-color: #ffedcb;
+    width: 59vh;
+    padding: 3vh;
+    text-align: center;
+}
+
+.yoga-type-page-img {
+    height: 32vh;
+    width: 32vh;
+    margin-top: 1vh;
+}
+
+.yoga-type-page-heading {
+    font-family: "Roboto";
+    color: #132d84;
+    font-weight: bold;
+    font-size: 4vh;
+    margin: 3vh;
+}
+
+.yoga-type-page-card1 {
+    height: 16vh;
+    width: 52vh;
+    background-color: #ffe2ab;
+    border-radius: 2vh;
+    padding: 2vh;
+    margin-bottom: 2vh;
+}
+
+.yoga-type-page-card-data {
+    text-align: left;
+    margin-left: 3vh;
+}
+
+.yoga-type-page-card-img {
+    height: 13vh;
+    width: 10vh;
+}
+
+.yoga-type-page-card-heading {
+    font-family: "Roboto";
+    color: #132d84;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.yoga-type-page-card-text {
+    font-family: "Roboto";
+    color: #132d84;
+    font-size: 11px;
+}
+
+.yoga-type-page-card2 {
+    height: 18vh;
+    width: 52vh;
+    background-color: #ffe2ab;
+    border-radius: 2vh;
+    padding: 2vh;
+    margin-bottom: 2vh;
+}
+
+.yoga-button {
+    background-color: #132d84;
+    color: #fad693;
+    font-family: "Roboto";
+    font-size: 2vh;
+    height: 5vh;
+    width: 13vh;
+    border-radius: 1vh;
+}
