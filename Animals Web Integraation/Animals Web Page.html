@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div id="sectionAnimalsHomePage">
+        <div class="animals-home-bg">
+            <h1 class="animals-heading">Animals</h1>
+            <div class="d-flex flex-row justify-content-start">
+                <div>
+                    <img src="https://assets.ccbp.in/frontend/static-website/animals-turtle-img.png" class="animals-home-bg-img" />
+                    <button class="animals-home-bg-button btn btn-primary" onclick="display('sectionTurtlesPage')">View Deatails</button>
+                </div>
+                <div>
+                    <img src="https://assets.ccbp.in/frontend/static-website/animals-raccoon-img.png" class="animals-home-bg-img" />
+                    <button class="animals-home-bg-button btn btn-primary" onclick="display('sectionRacconsPage')">View Deatails</button>
+                </div>
+
+            </div>
+            <div class="d-flex flex-row justify-content-start">
+                <div>
+                    <img src="https://assets.ccbp.in/frontend/static-website/animals-kangaroo-img.png" class="animals-home-bg-img" />
+                    <button class="animals-home-bg-button btn btn-primary" onclick="display('sectionKangaroosPage')">View Deatails</button>
+                </div>
+                <div>
+                    <img src="https://assets.ccbp.in/frontend/static-website/animals-lion-img.png" class="animals-home-bg-img" />
+                    <button class="animals-home-bg-button btn btn-primary" onclick="display('sectionLionsPage')">View Deatails</button>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+    <div id="sectionTurtlesPage">
+        <div class="turtle-bg d-flex flex-column justify-content-end">
+            <div class="animals-data-card d-flex flex-column justify-content-end">
+                <p class="animals-text">Sea turtle</p>
+                <h1 class="animals-heading">Sea tuttles are teptiles of the order Testudines.</h1>
+                <button class="btn btn-primary animals-back-button" onclick="display('sectionAnimalsHomePage')">Back</button>
+            </div>
+
+
+        </div>
+    </div>
+    <div id="sectionKangaroosPage">
+        <div class="kangaroo-bg d-flex flex-column justify-content-end">
+            <div class="animals-data-card d-flex flex-column justify-content-end">
+                <p class="animals-text">kangaroos</p>
+                <h1 class="animals-heading">Kangaroo are large marsupials that are found only in Austria.</h1>
+                <button class="btn btn-primary animals-back-button" onclick="display('sectionAnimalsHomePage')">Back</button>
+            </div>
+
+
+        </div>
+    </div>
+    <div id="sectionLionsPage">
+        <div class="lion-bg d-flex flex-column justify-content-end">
+            <div class="animals-data-card d-flex flex-column justify-content-end">
+                <p class="animals-text">Lion</p>
+                <h1 class="animals-heading">Lions have very sharp eyeight and called excellent hunters.</h1>
+                <button class="btn btn-primary animals-back-button" onclick="display('sectionAnimalsHomePage')">Back</button>
+            </div>
+
+
+        </div>
+    </div>
+    <div id="sectionRacconsPage">
+        <div class="raccon-bg d-flex flex-column justify-content-end">
+            <div class="animals-data-card d-flex flex-column justify-content-end">
+                <p class="animals-text">Raccon</p>
+                <h1 class="animals-heading">Raccon is a medium sized mammal native to North America.</h1>
+                <button class="btn btn-primary animals-back-button" onclick="display('sectionAnimalsHomePage')">Back</button>
+            </div>
+
+
+        </div>
+    </div>
+
+    <script type="text/javascript" src="https://new-assets.ccbp.in/frontend/content/static-ccbp-ui-kit/static-ccbp-ui-kit.js"></script>
+</body>
+
+</html>
