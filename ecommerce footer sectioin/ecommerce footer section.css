@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-footer-section-bg {
+    background-color: #0d2436;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+    font-family: "Roboto";
+}
+
+.ecommerce-footer-section-icon-container {
+    background-color: #152c3e;
+    height: 4vh;
+    width: 4vh;
+    margin-right: 1vh;
+    border-radius: 50vh;
+}
+
+.ecommerce-footer-section-icon {
+    color: #5a7184;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    font-size: 2vh;
+
+}
+
+.ecommerce-footer-section-address {
+    color: white;
+    font-size: 2vh;
+}
+
+.ecommerce-footer-section-heading {
+    color: #5a7184;
+    font-size: 3vh;
+    font-weight: 600;
+    margin-bottom: 3vh;
+    margin-top: 3vh;
+}
+
+.ecommerce-footer-section-text {
+    color: #5a7184;
+    font-size: 2vh;
+    list-style-type: none;
+
+}
+
+.ecommerce-footer-section-hr-line {
+    background-color: #5a7184;
+    height: 2px;
+}
+
+.ecommerce-footer-section-footer-text {
+    color: white;
+    font-size: 2vh;
+    margin-top: 3vh;
+}
+
+.ecommerce-footer-section-footer-icon {
+    color: #5a7184;
+    margin-top: 3vh;
+    margin-right: 1vh;
+    font-size: 3vh;
+}
