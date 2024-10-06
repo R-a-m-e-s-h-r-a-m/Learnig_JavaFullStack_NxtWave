@@ -1,0 +1,16 @@
+.ecommerce-offer-section-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.ecommerce-offer-section-heading {
+    color: #ad2167;
+    font-family: "Bree Serif";
+    font-size: 4vh;
+    font-weight: 600;
+}
+
+.ecommerce-offer-section-text {
+    color: white;
+    font-family: "Roboto";
+    font-size: 2vh;
+}

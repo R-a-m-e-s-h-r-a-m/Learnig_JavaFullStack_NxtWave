@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-product-section-bg {
+    font-family: "Roboto";
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    background-color: white;
+
+}
+
+.ecommerce-product-section-heading {
+    color: #183b56;
+    font-size: 6vh;
+    font-weight: bold;
+}
+
+.ecommerce-product-section-card1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    height: 60vh;
+    background-size: cover;
+    padding: 3vh;
+    margin-bottom: 3vh;
+    border-top-right-radius: 2vh;
+    border-bottom-right-radius: 2vh;
+}
+
+.ecommerce-product-section-card-heading {
+    color: white;
+    font-size: 8vh;
+}
+
+.ecommerce-product-section-card-text {
+    color: white;
+    font-size: 4vh;
+}
+
+.ecommerce-product-section-card-button {
+    color: #ff9f00;
+    height: 7vh;
+    font-weight: 600;
+    width: 20vh;
+    border-radius: 50vh;
+    font-size: 2vh;
+}
+
+.ecommerce-product-section-card2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    height: 60vh;
+    background-size: cover;
+    padding: 3vh;
+    margin-bottom: 3vh;
+    border-top-right-radius: 2vh;
+    border-bottom-right-radius: 2vh;
+}
+
+.ecommerce-product-section-see-all-offers {
+    color: #ff9f00;
+    font-size: 3vh;
+    font-weight: bold;
+    text-align: right;
+
+}
+
+.right-arrow-icon {
+    font-size: 2vh;
+}
