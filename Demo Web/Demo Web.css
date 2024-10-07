@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.web-design-bg-color {
+    background-color: #0C0521;
+
+}
+
+.web-banner {
+    background-image: url('https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.web-heading {
+    font-family: "Roboto";
+    color: white;
+    font-size: 6vh;
+}
+
+.web-text {
+    font-family: "Roboto";
+    color: white;
+    font-size: 3vh;
+
+}
+
+.web-sign-up-button {
+    height: 7vh;
+    width: 25vh;
+    background-color: #FFDDA9;
+    border-width: 0px;
+    border-radius: 25vh;
+    color: #0C0521;
+    font-weight: bold;
+    font-size: 3vh;
+}
+
+
+.web-logos-heading {
+    font-size: 3vh;
+    margin-bottom: 4vh;
+}
+
+.web-design-delivery-card-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 3vh;
+    margin-top: 2vh;
+    margin-bottom: 1vh;
+}
+
+.web-design-delivery-card-text {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 2vh;
+    text-align: left;
+}
+
+
+.web-tools-card-heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 4vh;
+    margin-bottom: 2vh;
+    margin-top: 1vh;
+}
+
+.web-tools-card-text {
+    font-family: "Roboto";
+    color: #7b8794;
+    font-size: 2vh;
+    margin-bottom: 3vh;
+    text-align: left;
+}
+
+
+.web-feature-section-heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 5vh;
+    text-align: center;
+}
+
+.web-feature-section-text {
+    font-family: "Roboto";
+    color: #7b8794;
+    font-size: 3vh;
+    text-align: center;
+    margin-top: 2vh;
+}
+
+.web-feature-section-card-heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+    font-size: 3vh;
+    margin-bottom: 1vh;
+}
+
+.web-feature-section-card-text {
+    font-family: "Roboto";
+    color: #9aa5b1;
+    font-weight: 600;
+    font-size: 2vh;
+    margin-top: 1vh;
+}

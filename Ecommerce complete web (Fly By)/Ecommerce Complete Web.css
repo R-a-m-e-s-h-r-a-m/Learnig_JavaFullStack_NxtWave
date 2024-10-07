@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-website-logo-img {
+    height: 7vh;
+    width: 20vw;
+}
+
+
+.ecommerce-service-section-bg {
+    background-color: white;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.ecommerce-service-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 7vh;
+}
+
+.ecommerce-service-section-text {
+    color: #616c7c;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 3vh;
+}
+
+.ecommerce-service-section-card {
+    height: auto;
+    text-align: center;
+    margin-bottom: 4vh;
+    margin-top: 2vh;
+    padding-bottom: 3vh;
+    padding-top: 2vh;
+}
+
+.ecommerce-service-section-card-img {
+    height: 12vh;
+    width: 13vh;
+    margin-top: 1vh;
+}
+
+.ecommerce-service-section-card-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 2rem;
+    margin-top: 1vh;
+}
+
+.ecommerce-service-section-card-text {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 1.8rem;
+    margin-top: 1vh;
+}
+
+.ecommerce-product-section-bg {
+    font-family: "Roboto";
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    background-color: white;
+
+}
+
+.ecommerce-product-section-heading {
+    color: #183b56;
+    font-size: 6vh;
+    font-weight: bold;
+}
+
+.ecommerce-product-section-card1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    height: 60vh;
+    background-size: cover;
+    padding: 3vh;
+    margin-bottom: 3vh;
+    border-top-right-radius: 2vh;
+    border-bottom-right-radius: 2vh;
+}
+
+.ecommerce-product-section-card-heading {
+    color: white;
+    font-size: 8vh;
+}
+
+.ecommerce-product-section-card-text {
+    color: white;
+    font-size: 4vh;
+}
+
+.ecommerce-product-section-card-button {
+    color: #ff9f00;
+    height: 7vh;
+    font-weight: 600;
+    width: 20vh;
+    border-radius: 50vh;
+    font-size: 2vh;
+}
+
+.ecommerce-product-section-card2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    height: 60vh;
+    background-size: cover;
+    padding: 3vh;
+    margin-bottom: 3vh;
+    border-top-right-radius: 2vh;
+    border-bottom-right-radius: 2vh;
+}
+
+.ecommerce-product-section-see-all-offers {
+    color: #ff9f00;
+    font-size: 3vh;
+    font-weight: bold;
+    text-align: right;
+
+}
+
+.right-arrow-icon {
+    font-size: 2vh;
+}
+
+.ecommerce-explore-section-bg {
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+}
+
+.ecommerce-explore-section-heading {
+    color: #183b56;
+    font-size: 5vh;
+    font-weight: bold;
+}
+
+.ecommerce-explore-section-card {
+    background-color: white;
+    border-radius: 2vh;
+    margin-bottom: 4vh;
+    padding: 2vh;
+    margin-top: 2vh;
+}
+
+.ecommerce-explore-section-card-heading {
+    color: #183b56;
+    font-size: 3vh;
+    font-weight: bold;
+}
+
+.ecommerce-explore-section-card-img {
+    border-radius: 2vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+
+}
+
+.ecommerce-explore-section-card-tittle {
+    color: #1f2933;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2vh;
+}
+
+.ecommerce-explore-section-card-link {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 2vh;
+    font-weight: bold
+}
+
+
+.ecommerce-offer-section-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.ecommerce-offer-section-heading {
+    color: #ad2167;
+    font-family: "Bree Serif";
+    font-size: 4vh;
+    font-weight: 600;
+}
+
+.ecommerce-offer-section-text {
+    color: white;
+    font-family: "Roboto";
+    font-size: 2vh;
+}
+
+
+
+.ecommerce-contact-us-bg {
+    background-color: #f5f7fa;
+    font-family: "Roboto";
+    padding-top: 6vh;
+    padding-bottom: 6vh;
+}
+
+.ecommerce-contact-us-heading {
+    color: #183b56;
+    font-size: 6vh;
+    font-weight: bold;
+    margin-bottom: 3vh;
+}
+
+.ecommerce-contact-us-button {
+    background-color: transparent;
+    height: 8vh;
+    width: 26vh;
+    color: #ff9f00;
+    border: 3px solid #ff9f00;
+    font-weight: bold;
+}
+
+
+.ecommerce-trending-blogs-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.ecommerce-trending-blogs-card-tittle {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 3vh;
+    margin-top: 3vh;
+    margin-left: 2vh;
+}
+
+.ecommerce-trending-blogs-card-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 5vh;
+    margin-top: 2vh;
+    margin-left: 2vh;
+    font-weight: bold;
+}
+
+.ecommerce-trending-blogs-card-text {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 4vh;
+    margin-top: 2vh;
+    margin-left: 2vh;
+    font-weight: 500;
+}
+
+.ecommerce-trending-blogs-card-read-more {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 3vh;
+
+    margin-left: 2vh;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+.ecommerce-footer-section-bg {
+    background-color: #0d2436;
+    padding-top: 4vh;
+    padding-bottom: 4vh;
+    font-family: "Roboto";
+}
+
+.ecommerce-footer-section-icon-container {
+    background-color: #152c3e;
+    height: 4vh;
+    width: 4vh;
+    margin-right: 1vh;
+    border-radius: 50vh;
+}
+
+.ecommerce-footer-section-icon {
+    color: #5a7184;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    font-size: 2vh;
+
+}
+
+.ecommerce-footer-section-address {
+    color: white;
+    font-size: 2vh;
+}
+
+.ecommerce-footer-section-heading {
+    color: #5a7184;
+    font-size: 3vh;
+    font-weight: 600;
+    margin-bottom: 3vh;
+    margin-top: 3vh;
+}
+
+.ecommerce-footer-section-text {
+    color: #5a7184;
+    font-size: 2vh;
+    list-style-type: none;
+
+}
+
+.ecommerce-footer-section-hr-line {
+    background-color: #5a7184;
+    height: 2px;
+}
+
+.ecommerce-footer-section-footer-text {
+    color: white;
+    font-size: 2vh;
+    margin-top: 3vh;
+}
+
+.ecommerce-footer-section-footer-icon {
+    color: #5a7184;
+    margin-top: 3vh;
+    margin-right: 1vh;
+    font-size: 3vh;
+}
